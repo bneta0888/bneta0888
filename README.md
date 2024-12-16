@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/binita shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binita shrestha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/binita-shrestha-8283962a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binita shrestha" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Bneta2006?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binita shrestha" height="30" width="40" /></a>
 <a href="https://instagram.com/binita_shrestha8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binita_shrestha8" height="30" width="40" /></a>
 </p>
