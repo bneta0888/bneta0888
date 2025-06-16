@@ -2,9 +2,9 @@
 <h3 align="center">I am a passionate Digital Marketing Specialist, Content Creator and an IT Enthusiast.</h3>
 
 
-- 🔭 I’m currently working as **Digital Marketing Officer**
+- 🔭 I’m currently pursuing **Bachelor's in IT**
 
-- 💼 What I do? **Content Creation**
+- 💼 What I do? **Digital Marketing, Content Writing/Creation, Web Development**
 
 - 📫 How to reach me **binitashrestha0888@gmail.com**
 
