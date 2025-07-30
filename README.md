@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Binita Shrestha</h1>
-<h3 align="center">I am a passionate Digital Marketing Specialist, Content Creator and an IT Enthusiast.</h3>
-
-
-- 🔭 I’m currently pursuing **Bachelor's in IT**
-
-- 💼 What I do? **Digital Marketing, Content Writing/Creation, Web Development**
+<h3 align="center"> BCSIT Student | Cybersecurity aspirant | Web Development | Digital Marketing (2+ Yrs) | Tech Enthusiast </h3>
 
 - 📫 How to reach me **binitashrestha0888@gmail.com**
 
